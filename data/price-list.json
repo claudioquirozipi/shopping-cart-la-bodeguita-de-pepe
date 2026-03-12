@@ -1,0 +1,1335 @@
+{
+  "company": "DISTRIBUIDORA SHON, C.A",
+  "taxId": "J-31670106-9",
+  "issueDate": "2026-02-23",
+  "products": [
+    {
+      "code": "2001AGU1",
+      "description": "AGUA MINALBA 600ML CJ X 24 UNDS DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.91,
+      "price2": 0.88,
+      "image": "",
+      "category": "Agua y Bebidas"
+    },
+    {
+      "code": "99991065",
+      "description": "AGUA GOTAS 350ML DISTRIBUIDORA SHON C.A.",
+      "price1": 0.46,
+      "price2": 0.39,
+      "image": "",
+      "category": "Agua y Bebidas"
+    },
+    {
+      "code": "99991066",
+      "description": "AGUA GOTAS 600ML DISTRIBUIDORA SHON C.A.",
+      "price1": 0.61,
+      "price2": 0.52,
+      "image": "",
+      "category": "Agua y Bebidas"
+    },
+    {
+      "code": "99991067",
+      "description": "AGUA GOTAS 1.5 DISTRIBUIDORA SHON C.A.",
+      "price1": 1.14,
+      "price2": 0.98,
+      "image": "",
+      "category": "Agua y Bebidas"
+    },
+    {
+      "code": "1308AL62",
+      "description": "ALINIEVE FIAMBRE POR KG DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.04,
+      "price2": 5.63,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "PH24012A",
+      "description": "ANIS CARTUJO INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 5.95,
+      "price2": 5.75,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "PH243ANT",
+      "description": "ANTIOQUEÑO S/AZUCAR INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 5.4,
+      "price2": 5.15,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "89013011",
+      "description": "ARICHUNA MORTADELA EXTRA EMBUTIDOS ARICHUNA",
+      "price1": 6.53,
+      "price2": 6,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "8901ARS",
+      "description": "ARICHUNA SALCHICHA TIPO VIENA 450GR X 12PAQ EMBUTIDOS ARICHUNA",
+      "price1": 4.77,
+      "price2": 4.39,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "CRA008",
+      "description": "ASADO EN TIRA AA PORTELLI GROUP C.A.",
+      "price1": 7,
+      "price2": 8,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "HHGHHG",
+      "description": "BOLSA DE HIELO GRANDE BOLSA DE HIELO JOSE RAMIREZ",
+      "price1": 1.32,
+      "price2": 1.32,
+      "image": "",
+      "category": "Otros"
+    },
+    {
+      "code": "06019992",
+      "description": "BOLSA DE VACIO FERRE TODO NORTE, C.A.",
+      "price1": 0.26,
+      "price2": 0.26,
+      "image": "",
+      "category": "Otros"
+    },
+    {
+      "code": "06019100",
+      "description": "BOLSAS DISTRIBUIDORA SHON C.A.",
+      "price1": 0.04,
+      "price2": 0.03,
+      "image": "",
+      "category": "Otros"
+    },
+    {
+      "code": "BRB19033",
+      "description": "BRAVONE MOZARELLA EN BARRA ALIMENTOS FRANCO 2021, C.A.",
+      "price1": 12.63,
+      "price2": 11.8,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "87998799",
+      "description": "CARBON VEGETAL SACO 10KG INVERSIONES PAPELERIA OKUTE C.A.",
+      "price1": 13,
+      "price2": 13,
+      "image": "",
+      "category": "Otros"
+    },
+    {
+      "code": "CRA014",
+      "description": "CECINA PORTELLI GROUP C.A.",
+      "price1": 12,
+      "price2": 12,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "02029033",
+      "description": "CHORIZO AHUMADO FRIGOSAM FRIGOSAM C.A.",
+      "price1": 6.99,
+      "price2": 6.5,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "05BLBCA",
+      "description": "CHORIZO DE AJO FRIGOSAM FRIGOSAM C.A.",
+      "price1": 6.99,
+      "price2": 6.5,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "9393PRC1",
+      "description": "CHORIZO PICANTE FRIGOSAM FRIGOSAM C.A.",
+      "price1": 6.99,
+      "price2": 6.5,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1303AL08",
+      "description": "CHULETA AHUMADA PEINE A GRANEL (ALINIEVE) DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.3,
+      "price2": 6.3,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "1302RA01",
+      "description": "CHULETA AHUMADA REBANADA ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.99,
+      "price2": 6.99,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "10249103",
+      "description": "CHULETA DE CERDO FRESCA POR KG PORTELLI GROUP C.A.",
+      "price1": 7.95,
+      "price2": 7.95,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "CRA013",
+      "description": "CHULETA DE RES PORTELLI GROUP C.A.",
+      "price1": 10,
+      "price2": 11,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "CCCC9998",
+      "description": "COCA COLA ORIGINAL 1.5LT 6 UND COCA COLA FEMSA DE VENEZUELA, S.A.",
+      "price1": 1.08,
+      "price2": 0.98,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "CCCC0222",
+      "description": "COCA COLA 2LT ORIGINAL COCA COLA FEMSA DE VENEZUELA, S.A.",
+      "price1": 1.5,
+      "price2": 1.23,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "CCCC1355",
+      "description": "COCA COLA 355ML PET COCA COLA FEMSA DE VENEZUELA, S.A.",
+      "price1": 0.65,
+      "price2": 0.59,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "CCCCR004",
+      "description": "COCA COLA SABORES 1LT COCA COLA FEMSA DE VENEZUELA, S.A.",
+      "price1": 0.8,
+      "price2": 0.8,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "SACOM013",
+      "description": "COMA MOSTAZA 1KG X 12UND ALIMENTOS DON ANTONIO C.A.",
+      "price1": 3.36,
+      "price2": 3.28,
+      "image": "",
+      "category": "Condimentos y Salsas"
+    },
+    {
+      "code": "SACOCO",
+      "description": "COMA MOSTAZA 4KG x 4UND ALIMENTOS DON ANTONIO C.A.",
+      "price1": 12.25,
+      "price2": 11.96,
+      "image": "",
+      "category": "Condimentos y Salsas"
+    },
+    {
+      "code": "SACOC10",
+      "description": "COMA SALSA DE TOMATE KETCHUP 4KG X 4UND ALIMENTOS DON ANTONIO C.A.",
+      "price1": 14.65,
+      "price2": 14.31,
+      "image": "",
+      "category": "Condimentos y Salsas"
+    },
+    {
+      "code": "C2C9C10",
+      "description": "COMA SALSA KETCHUP 1KG X 12UND ALIMENTOS DON ANTONIO C.A.",
+      "price1": 4.35,
+      "price2": 4.25,
+      "image": "",
+      "category": "Condimentos y Salsas"
+    },
+    {
+      "code": "99991068",
+      "description": "COPA DE CERDO REDONDA POR KG PORTELLI GROUP C.A.",
+      "price1": 7.95,
+      "price2": 7.95,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "10249105",
+      "description": "COSTILLA CHINA (ALINIEVE) DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 5.84,
+      "price2": 5.31,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "LMMH0017",
+      "description": "COSTILLA CHINA DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.9,
+      "price2": 6.5,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "SN9 SN9",
+      "description": "CREMA DE LECHE MIX QUESOS ALIMENTOS LACTEOS MIS QUESOS, C.A",
+      "price1": 2.86,
+      "price2": 2.86,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "DÑTTSAJ",
+      "description": "DOÑA TITA SALSA DE AJO GALON 3.8LT DISTRIBUIDORA GADUCA C.A.",
+      "price1": 6.99,
+      "price2": 6.99,
+      "image": "",
+      "category": "Condimentos y Salsas"
+    },
+    {
+      "code": "DRRECTC",
+      "description": "DRAGO RECORTE TOCINETA INVERSIONES FRIOPORKING C.A.",
+      "price1": 5,
+      "price2": 5,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "BEBEDM900",
+      "description": "EDMAR NARANJADA 900ML MAS POLLO, C.A",
+      "price1": 1.75,
+      "price2": 1.75,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "DRD1DR1",
+      "description": "EL DRAGO CHULETA AHUMADA REBANADO INVERSIONES FRIOPORKING C.A.",
+      "price1": 7.68,
+      "price2": 7.68,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "1330ERTZ",
+      "description": "EMBUTIDOS RECORTES DISTRIBUIDORA SHON C.A.",
+      "price1": 4.5,
+      "price2": 4.5,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1302AL02",
+      "description": "ESPALDA COCIDA DE CERDO ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.99,
+      "price2": 6.79,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "2201MM02",
+      "description": "ESPALDA COCIDA MILLENIUM THE BLESSING JC, C.A",
+      "price1": 8.18,
+      "price2": 7.32,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "89013012",
+      "description": "ESPALDA COCIDA VIGOR EMBUTIDOS ARICHUNA",
+      "price1": 6.52,
+      "price2": 5.43,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "KRFKFKR24X8",
+      "description": "FACILISTAS DE KRAFT SINGLES 124ND X PAQ X8 DELILUSO C.A.",
+      "price1": 4.25,
+      "price2": 4.16,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "KRFKFKR18X16",
+      "description": "FACILISTAS DE KRAFT SINGLES 18UND X PAQ X16 DELILUSO C.A.",
+      "price1": 8.2,
+      "price2": 7.95,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "CCCCFCC",
+      "description": "FANTA REFRESCO DE 1LT COCA COLA FEMSA DE VENEZUELA, S.A.",
+      "price1": 0.69,
+      "price2": 0.69,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "PPIEPPI",
+      "description": "FRIGOSAM PEPPERONI KG FRIGOSAM C.A.",
+      "price1": 8.5,
+      "price2": 7.5,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2959RS20",
+      "description": "GRAN RESERVA STA TERESA 0.70ML C.A. RON SANTA TERESA S.A.C.A",
+      "price1": 6.72,
+      "price2": 6.5,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "1303AL28",
+      "description": "HUESO AHUMADO ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 3.99,
+      "price2": 3.99,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "CRA011",
+      "description": "HUESO ROJO PORTELLI GROUP C.A.",
+      "price1": 5,
+      "price2": 6,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "9797HUEV",
+      "description": "HUEVO TIPO A 12 / 30UND GRANJA LOS MOROCHO JIMENEZ C.A.",
+      "price1": 4,
+      "price2": 4,
+      "image": "",
+      "category": "Huevos"
+    },
+    {
+      "code": "HVHVHV",
+      "description": "HUEVO TIPO GRANDE G-AA 12 / 30UND RANCHO AGROTURISTICO PALMA REAL",
+      "price1": 4.9,
+      "price2": 4.75,
+      "image": "",
+      "category": "Huevos"
+    },
+    {
+      "code": "ITITITAL",
+      "description": "ITALGUARICO SALCHICHON SALUMIFICIO X KG REPRESENTACIONES ALFA MERCA C.A.",
+      "price1": 41.1,
+      "price2": 38.52,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1302AL25",
+      "description": "JAMON AHUMADO SHOULDER ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 7.76,
+      "price2": 7.31,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1302AL03",
+      "description": "JAMON COC AHUM AREPERO ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.42,
+      "price2": 6.04,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM01",
+      "description": "JAMON COCIDO DE PIERNA STANDARD MILLENIUM THE BLESSING JC, C.A",
+      "price1": 8.3,
+      "price2": 7.83,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM07",
+      "description": "JAMON DE PECHUGA DE PAVO 98%LIGHT MILLENIUM HYPROCA, C.A.",
+      "price1": 8.65,
+      "price2": 7.9,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1302AL01",
+      "description": "JAMON DE PIERNA STANDAR ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 7.55,
+      "price2": 6.99,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1302AL67",
+      "description": "JAMON DE PIERNA SUPERIOR ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 7.36,
+      "price2": 6.93,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM13",
+      "description": "JAMON PECHUGA DE PAVO AHUMADO MILLENIUM THE BLESSING JC, C.A",
+      "price1": 9.7,
+      "price2": 9.13,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2001KMAG",
+      "description": "JUGO YUKERY 250ML DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.06,
+      "price2": 1.03,
+      "image": "",
+      "category": "Jugos y Néctares"
+    },
+    {
+      "code": "2001JUYK",
+      "description": "JUGO YUKERY 1.5 X 6UND DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 4.45,
+      "price2": 4.31,
+      "image": "",
+      "category": "Jugos y Néctares"
+    },
+    {
+      "code": "LSLSLSR",
+      "description": "L.S. RON TUCACAS X 12UND INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 2.25,
+      "price2": 2.13,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "LAGR15",
+      "description": "LAGARTO PORTELLI GROUP C.A.",
+      "price1": 8,
+      "price2": 9,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "02030059",
+      "description": "LECHE PASTEURIZADA IMPROLAC INVERSIONES ANGELES R&R C.A.",
+      "price1": 2.54,
+      "price2": 2.54,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "01020304",
+      "description": "LOS ANDES CHICHA INVERSIONES ANGELES R&R C.A.",
+      "price1": 2.73,
+      "price2": 2.73,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "2001MALT",
+      "description": "MALTA BOTELLA CJ X 36 UNDS DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.55,
+      "price2": 0.53,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "2001P586",
+      "description": "MALTA POLAR 1.5 LT DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.82,
+      "price2": 1.77,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "99991063",
+      "description": "MALTA POLAR DESECHABLE DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.72,
+      "price2": 0.7,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "2001P585",
+      "description": "MALTA POLAR LATA DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.94,
+      "price2": 0.91,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "0706EO02",
+      "description": "MANTEQUILLA ARTESANAL MIX QUESOS ALIMENTOS LACTEOS MIS QUESOS, C.A",
+      "price1": 4.25,
+      "price2": 4.25,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "MTMM9050",
+      "description": "MANTEQUILLA BARRA ELLA INVERSIONES ANGELES R&R C.A.",
+      "price1": 3.25,
+      "price2": 3.25,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "LILIMALI",
+      "description": "MASA DE PASTELITOS BICOTES COMERCIALIZADORA JKRW 2025 C.A.",
+      "price1": 1.4,
+      "price2": 1.4,
+      "image": "",
+      "category": "Panadería y Masas"
+    },
+    {
+      "code": "8282MCAN",
+      "description": "MASA DE PASTELITOS DE 900 GR LA CANDELARIA SERVIALIMENTOS M&N, C.A.",
+      "price1": 1.47,
+      "price2": 0,
+      "image": "",
+      "category": "Panadería y Masas"
+    },
+    {
+      "code": "MVMVMVC",
+      "description": "MI VAQUITA CHEDDAR LACTEOS JJVR F.P JUAN JOSE VIVAS ROJAS",
+      "price1": 12.81,
+      "price2": 8,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "MVMVMVM",
+      "description": "MI VAQUITA MOZARELLA LACTEOS JJVR F.P JUAN JOSE VIVAS ROJAS",
+      "price1": 10.92,
+      "price2": 8,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "3301ML1",
+      "description": "MILANESA EMPANIZADA SUPER FOOD AUTOSERVICIO INVERSIONES AJI, C.A.",
+      "price1": 10.65,
+      "price2": 9.99,
+      "image": "",
+      "category": "Comidas Preparadas y Congelados"
+    },
+    {
+      "code": "MINALAGU355",
+      "description": "MINALBA AGUA MINERAL 355ML DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.72,
+      "price2": 0.7,
+      "image": "",
+      "category": "Agua y Bebidas"
+    },
+    {
+      "code": "2201MM21",
+      "description": "MINI MORTADELA DE POLLO GRANEL MILLENIUN HYPROCA, C.A.",
+      "price1": 3.35,
+      "price2": 3.28,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM20",
+      "description": "MINI MORTADELA POLACA MILLENIUM SALCHICHA HYPROCA, C.A.",
+      "price1": 4.98,
+      "price2": 4.6,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "13080009",
+      "description": "MINI TOCINETA AHUMADA PAPADA DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.99,
+      "price2": 6.42,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "2201MM50",
+      "description": "MORTADELA DE POLLO 1KLG MILLENIUM x 10und HYPROCA, C.A.",
+      "price1": 3.4,
+      "price2": 3.4,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM08",
+      "description": "MORTADELA DE POLLO 400GR MILLENIUM x 16und HYPROCA, C.A.",
+      "price1": 1.41,
+      "price2": 1.29,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM10",
+      "description": "MORTADELA DE POLLO 600GR MILLENIUM X 12UND THE BLESSING JC, C.A",
+      "price1": 2.02,
+      "price2": 1.81,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM09",
+      "description": "MORTADELA DE POLLO 900GR MILLENIUM X 10und HYPROCA, C.A.",
+      "price1": 3.01,
+      "price2": 2.54,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "3301PME1",
+      "description": "MORTADELA DE POLLO CALIBRE 19 (SALCHICHA GRANEL) PUNTA DE MONTE INVERSIONES AJI, C.A",
+      "price1": 5.22,
+      "price2": 5.04,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "ARAR3010",
+      "description": "MORTADELA ESPECIAL ARICHUNA 1KGR. EMBUTIDOS ARICHUNA",
+      "price1": 4.3,
+      "price2": 3.97,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1301AL61",
+      "description": "MORTADELA EXTRA TIPO TAPARA AHUMADA ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 7.92,
+      "price2": 7.64,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "2201MM04",
+      "description": "MORTADELA TAPARA MILLENIUM 3.5 KG THE BLESSING JC, C.A",
+      "price1": 10.66,
+      "price2": 10.3,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "1301AL12",
+      "description": "MORTADELA TIPO EXTRA (ALINIEVE) DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 6.85,
+      "price2": 6.39,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "99991062",
+      "description": "NATILLA ARTESANAL MIX QUESOS ALIMENTOS LACTEOS MIS QUESOS, C.A",
+      "price1": 2.71,
+      "price2": 2.71,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "AGG1MI15",
+      "description": "NEVADA AGUA 1.5LTS X 6UND COCA COLA FEMSA DE VENEZUELA, S.A.",
+      "price1": 1,
+      "price2": 1,
+      "image": "",
+      "category": "Agua y Bebidas"
+    },
+    {
+      "code": "330125IN",
+      "description": "NUGGET SUPER FOOD AUTOSERVICIO INVERSIONES AJI, C.A",
+      "price1": 10.65,
+      "price2": 9.99,
+      "image": "",
+      "category": "Comidas Preparadas y Congelados"
+    },
+    {
+      "code": "11018230",
+      "description": "PAISA MANTEQUILLA C/SAL PASTEURIZADORA TACHIRA C.A.",
+      "price1": 6.9,
+      "price2": 6.85,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "99991069",
+      "description": "PALETA DE CERDO CON PIEL POR KG PORTELLI GROUP C.A.",
+      "price1": 6.8,
+      "price2": 6.8,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "PFPMPOM",
+      "description": "PAPAS CONGELADAS POMRACO 9X9 2.5KG MAS POLLO, C.A",
+      "price1": 10.99,
+      "price2": 10.5,
+      "image": "",
+      "category": "Comidas Preparadas y Congelados"
+    },
+    {
+      "code": "2102L160",
+      "description": "PAPAS RALLADAS 1KG X 25UND DISTRIBUIDORA LUSI QUESOS C.A",
+      "price1": 3.2,
+      "price2": 3.1,
+      "image": "",
+      "category": "Comidas Preparadas y Congelados"
+    },
+    {
+      "code": "99991072",
+      "description": "PATA DE CERDO POR KG PORTELLI GROUP C.A.",
+      "price1": 2.3,
+      "price2": 2.3,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "3301J006",
+      "description": "PECHUGA ENTERA DE POLLO PUNTA DE MONTE INVERSIONES AJI, C.A",
+      "price1": 6.44,
+      "price2": 6.15,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "1303PP02",
+      "description": "PEPPERONI ALINIEVE DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 11.55,
+      "price2": 11.2,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "PCVERBLA",
+      "description": "POLAR CAROREÑA VERANO LATA X 24UND DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.5,
+      "price2": 1.35,
+      "image": "",
+      "category": "Cervezas"
+    },
+    {
+      "code": "CVCVPRN",
+      "description": "POLAR CERVEZA 222ML RETORNABLE DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.7,
+      "price2": 0.65,
+      "image": "",
+      "category": "Cervezas"
+    },
+    {
+      "code": "CVLATLG",
+      "description": "POLAR CERVEZA LATA 355ML DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.25,
+      "price2": 1.17,
+      "image": "",
+      "category": "Cervezas"
+    },
+    {
+      "code": "CVLATP250",
+      "description": "POLAR CERVEZA LATA 250ML DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.03,
+      "price2": 0.99,
+      "image": "",
+      "category": "Cervezas"
+    },
+    {
+      "code": "CVLS250",
+      "description": "POLAR CERVEZA LATA SOLERA VERDE DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.6,
+      "price2": 1.55,
+      "image": "",
+      "category": "Cervezas"
+    },
+    {
+      "code": "CVCVSRA",
+      "description": "POLAR CERVEZA SOLERA VERDE 222RET DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.77,
+      "price2": 0.76,
+      "image": "",
+      "category": "Cervezas"
+    },
+    {
+      "code": "99991064",
+      "description": "POLAR MOJITO LATA X 24UND DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.63,
+      "price2": 1.58,
+      "image": "",
+      "category": "Cervezas"
+    },
+    {
+      "code": "PCAROTIN",
+      "description": "POLAR SANGRIA CAROREÑA TINTA DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 7.2,
+      "price2": 6.9,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "PLAQMAND",
+      "description": "POLAR SANGRIA LA QMANDA DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 5.5,
+      "price2": 5.08,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "3301MPM1",
+      "description": "PUNTA DE MONTE MORTADELA 1KGX10UND INVERSIONES AJI, C.A",
+      "price1": 6,
+      "price2": 5.54,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "3301MPM2",
+      "description": "PUNTA DE MONTE MORTADELA 500GR X 20UND INVERSIONES AJI, C.A",
+      "price1": 3.06,
+      "price2": 2.82,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "3301E009",
+      "description": "PUNTA DE MONTE MORTADELA ESPECIAL 3 KLG REBANAR INVERSIONES AJI, C.A",
+      "price1": 5.86,
+      "price2": 5.6,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "3301MPE1",
+      "description": "PUNTA DEL MONTE BOLOGNA 10UND X 1 KG SURTIMAC C.A.",
+      "price1": 6.5,
+      "price2": 5.65,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "CRA009",
+      "description": "PUNTA GANZO AA PORTELLI GROUP C.A.",
+      "price1": 12,
+      "price2": 13,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "PUNT16",
+      "description": "PUNTA TRASERA PORTELLI GROUP C.A.",
+      "price1": 12,
+      "price2": 13,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "04120284",
+      "description": "QPOLLO ALAS POR KG EL DON DE LA CARNE C.A.",
+      "price1": 3.6,
+      "price2": 3.6,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "CPCC9092",
+      "description": "QPOLLO CARAPACHO POR KG EL DON DE LA CARNE C.A.",
+      "price1": 1,
+      "price2": 1,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "330125PP",
+      "description": "QPOLLO MILANESA S/HUESO POR KG EL DON DE LA CARNE C.A.",
+      "price1": 6.5,
+      "price2": 6.5,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "0412MM",
+      "description": "QPOLLO MOLLEJAS POR KG EL DON DE LA CARNE C.A.",
+      "price1": 2,
+      "price2": 2,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "04120272",
+      "description": "QPOLLO MUSLO DE POLLO POR KG EL DON DE LA CARNE C.A.",
+      "price1": 2.7,
+      "price2": 2.7,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "04129092",
+      "description": "QPOLLO POLLO ENTERO POR KG EL DON DE LA CARNE C.A.",
+      "price1": 2.7,
+      "price2": 2.7,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "2T4T008T",
+      "description": "QUE PAISA TACHIRA CONTRERAS TIPO ESPECIAL DISTRIBUIDORA MELLO, F.P.",
+      "price1": 10.38,
+      "price2": 9.3,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "1902Q910",
+      "description": "QUESO AMARILLO Q LUSi DISTRIBUIDORA LUSI QUESOS C.A",
+      "price1": 15.13,
+      "price2": 13.44,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "0001SH01",
+      "description": "QUESO AMARILLO SHON GOUDA (LA ABUELA) INDUSTRIAS LACTEA DOÑA LUCIA C.A.",
+      "price1": 15.84,
+      "price2": 11.95,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "PRMS0090",
+      "description": "QUESO AMARILLO MUSTER BARRA ALIMENTOS FRANCO 2021, C.A.",
+      "price1": 24.94,
+      "price2": 24.09,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "00000PC",
+      "description": "QUESO AÑO QLUSI DISTRIBUIDORA LUSI QUESOS C.A",
+      "price1": 4.75,
+      "price2": 4.75,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "MQMQMQB",
+      "description": "QUESO BLANCO MQ WILMER PEREZ",
+      "price1": 6.83,
+      "price2": 6.49,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "3201MER2",
+      "description": "QUESO BLANCO RAYADO POR KG EL BODEGON DE LOS QUESOS M.H. 2014, C.A.",
+      "price1": 5,
+      "price2": 5,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "99991061",
+      "description": "QUESO BLANCO SEMIDURO MIX QUESOS ALIMENTOS LACTEOS MIS QUESOS, C.A",
+      "price1": 7.9,
+      "price2": 7.9,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "02019032",
+      "description": "QUESO COLONIA BR DOÑA FLORA MAS POLLO, C.A",
+      "price1": 16.89,
+      "price2": 15.65,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "02010089",
+      "description": "QUESO MANCHEGO DOÑA FLORA LACTEOS DOÑA FLORA, C.A.",
+      "price1": 28.53,
+      "price2": 26.75,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "9494QBCH",
+      "description": "QUESO MONTESANO RALLADO 50GR ALIMENTOS FRANCO 2021, C.A.",
+      "price1": 2.29,
+      "price2": 2.29,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "02029110",
+      "description": "QUESO MOZARELLA LA ABUELA POR KG INDUSTRIAS LACTEA DOÑA LUCIA C.A.",
+      "price1": 11.85,
+      "price2": 10.71,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "3801PE02",
+      "description": "QUESO PAISA LA ABUELA POR KG INDUSTRIAS LACTEA DOÑA LUCIA C.A.",
+      "price1": 12.28,
+      "price2": 11.44,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "QPQD9034",
+      "description": "QUESO PARMESANO DUCAL REDONDO ALIMENTOS FRANCO 2021, C.A.",
+      "price1": 38.95,
+      "price2": 38.95,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "1308PE06",
+      "description": "QUESO PECORINO RALLADO TOSCANO 100 S/P UND ALIMENTOS FRANCO 2021, C.A.",
+      "price1": 5.5,
+      "price2": 5.5,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "1303AL11",
+      "description": "RECORTE DE CHULETA ALINIEVE DISTRIBUIDORA SHON C.A.",
+      "price1": 7,
+      "price2": 7,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "1330QRTZ",
+      "description": "RECORTE DE QUESOS DISTRIBUIDORA SHON C.A.",
+      "price1": 7.25,
+      "price2": 7.25,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "13039111",
+      "description": "RECORTE DE TOCINETA DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 8,
+      "price2": 8,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "123PA19",
+      "description": "RECORTE MINI TOCINETA PAPADA DISTRIBUIDORA SHON C.A.",
+      "price1": 4.5,
+      "price2": 4.5,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "2001REFP",
+      "description": "REFRESCO 335ML BOT CJ X 24 UNDS DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 0.43,
+      "price2": 0.42,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "2001OTUV",
+      "description": "REFRESCO GOLDEN 335 BOTELLA RETORNABLE CJ X 24 UNDS DISTRIBUIDORA ROIS & CAR C.A.",
+      "price1": 0.48,
+      "price2": 0.47,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "2001PEPS",
+      "description": "REFRESCO PEPSI 2L T CJ X 6 UNDS DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.5,
+      "price2": 1.23,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "8888REPE",
+      "description": "REFRESCO PEPSI 1.5 LTS DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.03,
+      "price2": 0.98,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "2001PSU1",
+      "description": "REFRESCO PEPSI COLA 1 LT X 6 UNDS DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1,
+      "price2": 0.75,
+      "image": "",
+      "category": "Refrescos y Gaseosas"
+    },
+    {
+      "code": "28013511",
+      "description": "ROAST PORK PL 2 / 1.4KG PLUMROSE LATINOAMERICA, C.A.",
+      "price1": 13.57,
+      "price2": 13.57,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "RRRNBES",
+      "description": "RON B.E.S RONALDO X 12UND INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 2.5,
+      "price2": 2.31,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "RRRNR35",
+      "description": "RON RONALDO 350ML X 24UND INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 1.15,
+      "price2": 1.1,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "FIFGFRI",
+      "description": "SALCHICHA FRIGOSAM DE POLLO CALIBRE 19 GRANEL FRIGOSAM C.A.",
+      "price1": 3.6,
+      "price2": 3.43,
+      "image": "",
+      "category": "Embutidos y Fiambres"
+    },
+    {
+      "code": "AVAJJO",
+      "description": "SALSA AJO DEL AVILA GALON LACTEOS Y EMBUTIDOS LA QUINTA 1123 C.A",
+      "price1": 4.6,
+      "price2": 4.6,
+      "image": "",
+      "category": "Condimentos y Salsas"
+    },
+    {
+      "code": "COCOPI",
+      "description": "SALSA PICANTE LA COLMENA 150ML LACTEOS Y EMBUTIDOS LA QUINTA 1123 C.A",
+      "price1": 0.99,
+      "price2": 0.99,
+      "image": "",
+      "category": "Condimentos y Salsas"
+    },
+    {
+      "code": "SDS1SANG",
+      "description": "SANGRIA LA DIOSA 1.75LT INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 4,
+      "price2": 3.8,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "87CB8799",
+      "description": "SMOKE HOUSE CARBON DE 1.5KG INVERSIONES PAPELERIA OKUTE C.A.",
+      "price1": 2.35,
+      "price2": 2.35,
+      "image": "",
+      "category": "Otros"
+    },
+    {
+      "code": "99991071",
+      "description": "SMOKE HOUSE CARBON VEJETAL DRANCH 4KLG INVERSIONES PAPELERIA OKUTE C.A.",
+      "price1": 7.5,
+      "price2": 7.5,
+      "image": "",
+      "category": "Otros"
+    },
+    {
+      "code": "CRA010",
+      "description": "SOLOMO DE CUERITO RES AA PORTELLI GROUP C.A.",
+      "price1": 14,
+      "price2": 15,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "SN9SB9",
+      "description": "SUERO DE LECHE 700ML MIX QUESO EN POTE ALIMENTOS LACTEOS MIS QUESOS, C.A",
+      "price1": 2.54,
+      "price2": 2.54,
+      "image": "",
+      "category": "Lácteos y Quesos"
+    },
+    {
+      "code": "2001NDUR",
+      "description": "TE LIPTON 500 ML CJ X 12 UNDS DISTRIBUIDORA FRANGELLY C.A",
+      "price1": 1.73,
+      "price2": 1.67,
+      "image": "",
+      "category": "Jugos y Néctares"
+    },
+    {
+      "code": "8282TECA",
+      "description": "TEQUEÑOS DE 20 UND LA CANDELARIA SERVIALIMENTOS M&N, C.A.",
+      "price1": 1.75,
+      "price2": 0,
+      "image": "",
+      "category": "Panadería y Masas"
+    },
+    {
+      "code": "1303AL06",
+      "description": "TOCINETA AHUMADA AL VACIO (ALINIEVE) DISTRIBUIDORA ALIMENTOS NIEVE, C.A.",
+      "price1": 16,
+      "price2": 14.9,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "9191P001",
+      "description": "TOCINO TNT PICANTE 1.5 ALIMENTOS TNT",
+      "price1": 7.35,
+      "price2": 6.94,
+      "image": "",
+      "category": "Carnes"
+    },
+    {
+      "code": "99991057",
+      "description": "VINO SAGRADA FAMILIA TINTO 0.70L GRUPO TRICOLOR C.A.",
+      "price1": 6.2,
+      "price2": 6,
+      "image": "",
+      "category": "Vinos"
+    },
+    {
+      "code": "99991074",
+      "description": "WHISKEY BLACK AND WHITE 0.75 L GRUPO TRICOLOR C.A.",
+      "price1": 19.5,
+      "price2": 19,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "99991075",
+      "description": "WHISKEY BLACK AND WHITE 1 L GRUPO TRICOLOR C.A.",
+      "price1": 22.22,
+      "price2": 21.05,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "PH1328AÑ",
+      "description": "WHISKEY GRANTS 8AÑOS 0.75LT INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 17.5,
+      "price2": 16.5,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "PH083LC",
+      "description": "WHISKEY L.W. GLEN WALLACE 0.70LT INVERSIONES HORIZONTE 23 C.A.",
+      "price1": 4.39,
+      "price2": 4.2,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    },
+    {
+      "code": "99991073",
+      "description": "WHISKEY LANGS GRUPO TRICOLOR C.A.",
+      "price1": 14.12,
+      "price2": 13.33,
+      "image": "",
+      "category": "Licores y Bebidas Alcohólicas"
+    }
+  ]
+}
