@@ -16,8 +16,28 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: 'Distribuidora Shon C.A. — Lista de Precios',
-  description: 'Catálogo de productos y lista de precios de Distribuidora Shon C.A.',
+  title: 'La Bodeguita de Pepe',
+  description: 'Explora nuestro catálogo de productos frescos y de calidad. Haz tu pedido fácilmente y envíalo por WhatsApp.',
+  openGraph: {
+    title: 'La Bodeguita de Pepe',
+    description: 'Explora nuestro catálogo de productos frescos y de calidad. Haz tu pedido fácilmente y envíalo por WhatsApp.',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 800,
+        height: 800,
+        alt: 'La Bodeguita de Pepe',
+      },
+    ],
+    type: 'website',
+    locale: 'es_ES',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'La Bodeguita de Pepe',
+    description: 'Explora nuestro catálogo de productos frescos y de calidad. Haz tu pedido fácilmente y envíalo por WhatsApp.',
+    images: ['/og-image.png'],
+  },
 }
 
 export default function RootLayout({
