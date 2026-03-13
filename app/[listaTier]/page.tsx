@@ -1,40 +1,30 @@
 export const dynamic = 'force-dynamic'
 
 import { notFound } from 'next/navigation'
-import { fetchPriceLists, fetchBusiness } from '@/lib/api'
+import { fetchBusiness } from '@/lib/api'
 import { BusinessProvider } from '@/context/BusinessContext'
 import Header from '@/components/Header'
 import ShopClient from '@/components/ShopClient'
 
 interface Props {
   params: Promise<{ listaTier: string }>
+  searchParams: Promise<{ priceListId?: string }>
 }
 
-const ROUTES: Record<string, { withPriceList: boolean; label: string }> = {
-  'precios-base': { withPriceList: false, label: 'Precios Base' },
-  'tarifa-vip':   { withPriceList: true,  label: 'Tarifa VIP'  },
+const ROUTES: Record<string, string> = {
+  'precios-base': 'Precios Base',
+  'tarifa-vip': 'Tarifa VIP',
 }
 
-const PRICE_LIST_NAME = process.env.NEXT_PUBLIC_PRICE_LIST_NAME || 'lista-1'
-
-export default async function TierPage({ params }: Props) {
+export default async function TierPage({ params, searchParams }: Props) {
   const { listaTier } = await params
-  const route = ROUTES[listaTier]
-  if (!route) notFound()
+  const label = ROUTES[listaTier]
+  if (!label) notFound()
 
-  let priceListId: number | undefined
+  const { priceListId: priceListIdParam } = await searchParams
+  const priceListId = priceListIdParam ? Number(priceListIdParam) : undefined
 
-  const [priceLists, business] = await Promise.all([
-    route.withPriceList ? fetchPriceLists() : Promise.resolve([]),
-    fetchBusiness(),
-  ])
-
-  if (route.withPriceList && priceLists.length > 0) {
-    const found = priceLists.find(
-      (pl) => pl.name.toLowerCase() === PRICE_LIST_NAME.toLowerCase(),
-    )
-    priceListId = found?.id ?? priceLists[0]?.id
-  }
+  const business = await fetchBusiness().catch(() => null)
 
   return (
     <BusinessProvider business={business}>
@@ -43,7 +33,7 @@ export default async function TierPage({ params }: Props) {
         <main className="max-w-7xl mx-auto px-4 py-6">
           <div className="mb-4">
             <h2 className="font-heading font-semibold text-[#212121]">
-              Catálogo — {route.label}
+              Catálogo — {label}
             </h2>
           </div>
           <ShopClient priceListId={priceListId} />
