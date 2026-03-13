@@ -9,7 +9,7 @@ export function BusinessProvider({
   business,
   children,
 }: {
-  business: ApiBusiness
+  business: ApiBusiness | null
   children: ReactNode
 }) {
   return (
