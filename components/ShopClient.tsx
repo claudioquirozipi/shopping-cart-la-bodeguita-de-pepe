@@ -149,7 +149,7 @@ export default function ShopClient({ priceListId }: ShopClientProps) {
 
       {loading && (
         <div className="flex justify-center py-6">
-          <div className="w-8 h-8 border-2 border-[#E91E63] border-t-transparent rounded-full animate-spin" />
+          <div className="w-8 h-8 border-2 border-[#2D5A27] border-t-transparent rounded-full animate-spin" />
         </div>
       )}
 

@@ -13,7 +13,7 @@ export default function CartItem({ item }: CartItemProps) {
   return (
     <div className="flex items-start gap-3 py-3 border-b border-gray-100 last:border-0">
       <div className="flex-1 min-w-0">
-        <p className="font-body text-sm text-[#212121] leading-snug line-clamp-2">
+        <p className="font-body text-sm text-[#1A1A1A] leading-snug line-clamp-2">
           {item.description}
         </p>
         <p className="font-label text-xs text-[#757575] mt-0.5">${item.price.toFixed(2)} c/u</p>
@@ -23,21 +23,21 @@ export default function CartItem({ item }: CartItemProps) {
         <div className="flex items-center gap-2">
           <button
             onClick={() => updateQty(item.code, item.quantity - 1)}
-            className="w-7 h-7 rounded-lg border border-gray-200 flex items-center justify-center text-[#757575] hover:border-[#E91E63] hover:text-[#E91E63] transition-colors text-lg leading-none"
+            className="w-7 h-7 rounded-lg border border-gray-200 flex items-center justify-center text-[#757575] hover:border-[#2D5A27] hover:text-[#2D5A27] transition-colors text-lg leading-none"
           >
             −
           </button>
           <span className="font-body text-sm w-5 text-center">{item.quantity}</span>
           <button
             onClick={() => updateQty(item.code, item.quantity + 1)}
-            className="w-7 h-7 rounded-lg border border-gray-200 flex items-center justify-center text-[#757575] hover:border-[#E91E63] hover:text-[#E91E63] transition-colors text-lg leading-none"
+            className="w-7 h-7 rounded-lg border border-gray-200 flex items-center justify-center text-[#757575] hover:border-[#2D5A27] hover:text-[#2D5A27] transition-colors text-lg leading-none"
           >
             +
           </button>
         </div>
 
         <div className="flex items-center gap-2">
-          <span className="font-label font-medium text-sm text-[#212121]">
+          <span className="font-label font-medium text-sm text-[#1A1A1A]">
             ${(item.price * item.quantity).toFixed(2)}
           </span>
           <button

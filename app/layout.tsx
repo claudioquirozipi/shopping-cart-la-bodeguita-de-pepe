@@ -1,18 +1,18 @@
 import type { Metadata } from 'next'
-import { Poppins, Quicksand } from 'next/font/google'
+import { Playfair_Display, Montserrat } from 'next/font/google'
 import { CartProvider } from '@/context/CartContext'
 import './globals.css'
 
-const poppins = Poppins({
-  variable: '--font-poppins',
+const playfair = Playfair_Display({
+  variable: '--font-playfair',
   subsets: ['latin'],
-  weight: ['400', '600', '700'],
+  weight: ['400', '700'],
 })
 
-const quicksand = Quicksand({
-  variable: '--font-quicksand',
+const montserrat = Montserrat({
+  variable: '--font-montserrat',
   subsets: ['latin'],
-  weight: ['500'],
+  weight: ['400', '500', '600', '700'],
 })
 
 export const metadata: Metadata = {
@@ -27,7 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
-      <body className={`${poppins.variable} ${quicksand.variable} antialiased`}>
+      <body className={`${playfair.variable} ${montserrat.variable} antialiased`}>
         <CartProvider>{children}</CartProvider>
       </body>
     </html>

@@ -18,7 +18,7 @@ export default function CartSummary() {
     <div className="border-t border-gray-100 pt-4 space-y-3">
       <div className="flex items-center justify-between">
         <span className="font-body text-[#757575]">Total:</span>
-        <span className="font-heading font-bold text-xl text-[#212121]">
+        <span className="font-heading font-bold text-xl text-[#1A1A1A]">
           ${total.toFixed(2)}
         </span>
       </div>

@@ -9,7 +9,7 @@ export default function Header() {
   const business = useBusiness()
 
   return (
-    <header className="sticky top-0 z-40 bg-white shadow-sm">
+    <header className="sticky top-0 z-40 bg-[#F9F9F7] shadow-sm border-b border-gray-100">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-3">
           {business?.logo ? (
@@ -21,12 +21,12 @@ export default function Header() {
               className="rounded-xl object-contain"
             />
           ) : (
-            <div className="w-12 h-12 rounded-xl bg-[#E91E63] flex items-center justify-center text-white font-bold text-lg">
+            <div className="w-12 h-12 rounded-xl bg-[#2D5A27] flex items-center justify-center text-white font-bold text-lg">
               {business?.name?.[0] ?? 'S'}
             </div>
           )}
           <div>
-            <h1 className="font-heading font-bold text-lg leading-tight text-[#212121]">
+            <h1 className="font-heading font-bold text-lg leading-tight text-[#1A1A1A]">
               {business?.name ?? 'Cargando...'}
             </h1>
             <p className="font-label text-xs text-[#757575]">Lista de Precios</p>
@@ -35,7 +35,7 @@ export default function Header() {
 
         <button
           onClick={toggleCart}
-          className="relative flex items-center gap-2 bg-[#E91E63] hover:bg-[#C2185B] text-white font-semibold px-4 py-2 rounded-xl transition-colors shadow"
+          className="relative flex items-center gap-2 bg-[#2D5A27] hover:bg-[#1E3D1A] text-white font-semibold px-4 py-2 rounded-xl transition-colors shadow"
         >
           <svg
             width="20"
@@ -51,7 +51,7 @@ export default function Header() {
           </svg>
           <span>Carrito</span>
           {itemCount > 0 && (
-            <span className="absolute -top-2 -right-2 bg-white text-[#E91E63] text-xs font-bold w-5 h-5 rounded-full flex items-center justify-center shadow">
+            <span className="absolute -top-2 -right-2 bg-white text-[#2D5A27] text-xs font-bold w-5 h-5 rounded-full flex items-center justify-center shadow">
               {itemCount}
             </span>
           )}

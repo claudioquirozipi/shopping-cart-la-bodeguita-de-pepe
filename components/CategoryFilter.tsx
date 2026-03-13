@@ -19,8 +19,8 @@ export default function CategoryFilter({
         onClick={() => onSelect(null)}
         className={`flex-shrink-0 px-4 py-1.5 rounded-full text-sm font-label font-medium transition-colors ${
           selectedId === null
-            ? 'bg-[#E91E63] text-white shadow'
-            : 'bg-white text-[#757575] border border-gray-200 hover:border-[#E91E63] hover:text-[#E91E63]'
+            ? 'bg-[#2D5A27] text-white shadow'
+            : 'bg-white text-[#757575] border border-gray-200 hover:border-[#2D5A27] hover:text-[#2D5A27]'
         }`}
       >
         Todos
@@ -31,8 +31,8 @@ export default function CategoryFilter({
           onClick={() => onSelect(cat.id)}
           className={`flex-shrink-0 px-4 py-1.5 rounded-full text-sm font-label font-medium transition-colors ${
             selectedId === cat.id
-              ? 'bg-[#E91E63] text-white shadow'
-              : 'bg-white text-[#757575] border border-gray-200 hover:border-[#E91E63] hover:text-[#E91E63]'
+              ? 'bg-[#2D5A27] text-white shadow'
+              : 'bg-white text-[#757575] border border-gray-200 hover:border-[#2D5A27] hover:text-[#2D5A27]'
           }`}
         >
           {cat.name}

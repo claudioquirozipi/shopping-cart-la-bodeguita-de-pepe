@@ -19,10 +19,10 @@ export default function CartSidebar() {
         }`}
       >
         <div className="flex items-center justify-between px-5 py-4 border-b border-gray-100">
-          <h2 className="font-heading font-bold text-lg text-[#212121]">Tu Carrito</h2>
+          <h2 className="font-heading font-bold text-lg text-[#1A1A1A]">Tu Carrito</h2>
           <button
             onClick={toggleCart}
-            className="w-8 h-8 rounded-lg flex items-center justify-center text-[#757575] hover:text-[#212121] hover:bg-gray-100 transition-colors"
+            className="w-8 h-8 rounded-lg flex items-center justify-center text-[#757575] hover:text-[#1A1A1A] hover:bg-gray-100 transition-colors"
           >
             ✕
           </button>

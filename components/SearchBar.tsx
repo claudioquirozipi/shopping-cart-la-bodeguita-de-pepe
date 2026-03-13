@@ -25,7 +25,7 @@ export default function SearchBar({ value, onChange }: SearchBarProps) {
         value={value}
         onChange={(e) => onChange(e.target.value)}
         placeholder="Buscar productos..."
-        className="w-full pl-10 pr-10 py-2.5 rounded-xl border border-gray-200 bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-[#E91E63]/40 font-body text-sm text-[#212121] placeholder:text-[#757575]"
+        className="w-full pl-10 pr-10 py-2.5 rounded-xl border border-gray-200 bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-[#2D5A27]/40 font-body text-sm text-[#212121] placeholder:text-[#757575]"
       />
       {value && (
         <button
